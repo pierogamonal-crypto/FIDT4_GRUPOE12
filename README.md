@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 # Equipo 12 - FUNDAMENTOS DE DISEÑO
+=======
+# Equipo 0X - Nombre del curso
+>>>>>>> 80244a53342808a38297bf4e49dc49aeb0f05766
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
+<<<<<<< HEAD
 Somos el **Equipo 12** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+=======
+Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+>>>>>>> 80244a53342808a38297bf4e49dc49aeb0f05766
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -29,7 +37,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
+<<<<<<< HEAD
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gamonal Castro Piero Alexander** | Líder del equipo | Innovación social, Tecnología IoT|
+=======
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+>>>>>>> 80244a53342808a38297bf4e49dc49aeb0f05766
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
@@ -39,4 +51,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+<<<<<<< HEAD
 
+=======
+>>>>>>> 80244a53342808a38297bf4e49dc49aeb0f05766
