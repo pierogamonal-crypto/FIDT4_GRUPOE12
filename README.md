@@ -7,12 +7,30 @@
 ## 🌍 Descripción del Equipo 
 Somos el **Equipo 12** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
   
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
-- ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+Claro. Se puede integrar ambos párrafos para que no se sientan repetitivos y mantengan un tono académico:
+
+Como equipo, hemos seleccionado como **ODS principal el ODS 12: Producción y consumo responsables**, ya que se relaciona directamente con la forma en que producimos, consumimos y gestionamos los recursos. Este objetivo busca fomentar prácticas de producción y consumo más sostenibles, promoviendo un uso eficiente de los recursos naturales y reduciendo los impactos negativos que estas actividades generan en el ambiente y la sociedad. En este marco, se abordan problemáticas como la inadecuada gestión de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo. Estas problemáticas resultan relevantes debido a que no solo generan consecuencias ambientales, sino que también pueden afectar la calidad de vida de las personas y la sostenibilidad de las ciudades.
+
+
+Metas en las que nos enfocaremos
+
+De manera preliminar, el equipo se enfocará principalmente en las metas del ODS 12 relacionadas con:
+
+-Reducir el desperdicio de alimentos en nuestra comunidad, especialmente en los hogares.
+-Promover una gestión adecuada de productos químicos y residuos para reducir sus impactos negativos sobre la salud y el medio ambiente.
+-Reducir la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
+-Garantizar que las personas tengan información y conocimientos necesarios para adoptar estilos de vida sostenibles.
+
+
+ODS complementarios
+
+Además del ODS 12, consideramos relevante relacionar nuestra problemática con otros objetivos de desarrollo sostenible:
+
+ODS 3 – Salud y bienestar: puede relacionarse con los efectos que una inadecuada gestión de residuos, la contaminación y determinados hábitos de consumo pueden generar sobre la salud y el bienestar de las personas.
+
+ODS 11 – Ciudades y comunidades sostenibles: se relaciona con la necesidad de construir ciudades más sostenibles, especialmente en aspectos como la gestión de residuos, la contaminación, el uso eficiente de los recursos y la adopción de hábitos responsables por parte de la población.
+
+Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los patrones de producción y consumo puede contribuir tanto a la protección del ambiente como al bienestar de las personas y a la sostenibilidad de las ciudades.
 
 ---
 
