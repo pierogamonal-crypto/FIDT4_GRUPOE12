@@ -45,7 +45,7 @@ Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los p
 | <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/62074141-4693-4923-8801-7d6de69c9fcf"> | **Josue Obed Barzola Reategui** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/e2899872-e7ef-4ace-a04b-82cc0d1e6e06"> | **Marx Uscamayta Lazaro** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9ddd682e-0597-45f3-acbd-7ad4457f3cb5"> | **Felipe Gabriel Loarte Nathals** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Angel Galarza Vivanco** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/IMG_6764.jpeg" width="90"/> | **Angel Galarza Vivanco** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
