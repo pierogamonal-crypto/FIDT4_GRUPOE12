@@ -49,7 +49,8 @@ Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los p
 
 ---
 
-Problemática
+Problemática.
+
 Desde septiembre del 2015 el Perú se sumó a la aprobación del documento “Transformar nuestro mundo: la Agenda 2030 para el Desarrollo Sostenible” de la Organización de las Naciones Unidas (ONU), un plan global que fijó 17 Objetivos de Desarrollo Sostenible (ODS) para erradicar la pobreza, proteger el planeta y garantizar la paz y prosperidad. A casi 11 de su aprobación, el desempeño del Perú continúa presentando importantes desafíos. El informe 2025 del Sustainable Development Solutions Network (SDSN) (Sachs et al., 2025), adscrito a la ONU, ubica al Perú en el puesto 65 de 167 países, con un índice de 72,7 sobre 100. Estos resultados evidencian que, si bien existen avances en determinados ámbitos, aún persisten brechas que requieren mayor atención para alcanzar los objetivos establecidos para 2030. 
 
 Dentro de ello nos enfocamos en la ODS 12: Producción y Consumo Responsables, que comprende diversas problemáticas ambientales, entre ellas la generación y gestión inadecuada de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo. (United Nations Department of Economic and Social Affairs, s. f.).
