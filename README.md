@@ -84,20 +84,55 @@ Esta meta complementa nuestro enfoque debido a que la información y los hábito
 
 ---
 
-Problemática.
+## 4. Delimitación de la Problemática
 
-Desde septiembre del 2015 el Perú se sumó a la aprobación del documento “Transformar nuestro mundo: la Agenda 2030 para el Desarrollo Sostenible” de la Organización de las Naciones Unidas (ONU), un plan global que fijó 17 Objetivos de Desarrollo Sostenible (ODS) para erradicar la pobreza, proteger el planeta y garantizar la paz y prosperidad. A casi 11 de su aprobación, el desempeño del Perú continúa presentando importantes desafíos. El informe 2025 del Sustainable Development Solutions Network (SDSN) (Sachs et al., 2025), adscrito a la ONU, ubica al Perú en el puesto 65 de 167 países, con un índice de 72,7 sobre 100. Estos resultados evidencian que, si bien existen avances en determinados ámbitos, aún persisten brechas que requieren mayor atención para alcanzar los objetivos establecidos para 2030. 
+Como equipo, centraremos nuestro trabajo en el **desperdicio de alimentos en el Perú**, considerando especialmente las situaciones que se presentan durante la comercialización y el consumo de alimentos y que contribuyen a que productos potencialmente aprovechables terminen siendo desechados.
 
-Dentro de ello nos enfocamos en la ODS 12: Producción y Consumo Responsables, que comprende diversas problemáticas ambientales, entre ellas la generación y gestión inadecuada de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo. (United Nations Department of Economic and Social Affairs, s. f.).
+### Contexto del Problema
 
-A partir de las problemáticas comprendidas, el equipo ha seleccionado como tema de interés el desperdicio de alimentos, debido a su impacto ambiental, económico y social. En el Perú, más de 12 millones de toneladas de alimentos se pierden a lo largo de la cadena productiva, cifra que representa casi la mitad del suministro total de alimentos del país. Esta problemática se presenta desde las etapas de producción hasta el consumidor final y evidencia la existencia de importantes ineficiencias en el aprovechamiento de los alimentos disponibles (FAO, 2024). Asimismo, la FAO señala que, específicamente en la etapa de venta al detalle, en el Perú se desperdician aproximadamente 3 076 millones de calorías, cantidad que podría satisfacer las necesidades nutricionales de cerca de 2 millones de personas.
+Desde septiembre de 2015, el Perú se sumó a la aprobación del documento **“Transformar nuestro mundo: la Agenda 2030 para el Desarrollo Sostenible”** de la Organización de las Naciones Unidas (ONU), un plan global que estableció 17 Objetivos de Desarrollo Sostenible (ODS) orientados a erradicar la pobreza, proteger el planeta y garantizar la paz y la prosperidad.
 
-La problemática también puede observarse en espacios concretos de comercialización de alimentos. Por ejemplo, en el Gran Mercado Mayorista de Lima se descartan diariamente entre 40 y 60 toneladas de alimentos, dependiendo de la temporada. Esta situación evidencia que una cantidad considerable de productos alimenticios termina siendo desechada durante su comercialización, a pesar de que parte de estos alimentos todavía podría ser aprovechada (Vite, 2021). El manejo de los residuos y los actuales patrones de consumo representan un desafío importante para el cumplimiento del ODS 12: Producción y consumo responsables en el Perú. Si bien se han registrado avances en materia normativa, empresarial y en determinadas iniciativas de valorización, todavía persisten dificultades relacionadas con la prevención, segregación, reciclaje, reutilización y adecuada gestión de los residuos.
+A casi 11 años de su aprobación, el desempeño del Perú continúa presentando importantes desafíos. El informe 2025 del **Sustainable Development Solutions Network (SDSN)** (Sachs et al., 2025), adscrito a la ONU, ubica al Perú en el puesto 65 de 167 países, con un índice de 72,7 sobre 100.
 
-En este contexto, el desperdicio de alimentos representa un desafío relevante para el cumplimiento del ODS 12, particularmente en relación con la reducción de las pérdidas y desperdicios de alimentos y la promoción de patrones de consumo responsables. Además de representar un desaprovechamiento de los recursos empleados en su producción, transporte y comercialización, esta problemática genera impactos ambientales y sociales. Por ello, resulta necesario profundizar en las causas y condiciones que favorecen el desperdicio de alimentos en contextos específicos, identificando a los usuarios afectados y las necesidades que podrían ser abordadas posteriormente mediante una propuesta de diseño.
+Estos resultados evidencian que, si bien existen avances en determinados ámbitos, aún persisten brechas que requieren mayor atención para alcanzar los objetivos establecidos para 2030.
 
-## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+Dentro de este contexto, nuestro equipo se enfoca en el **ODS 12: Producción y Consumo Responsables**, que comprende diversas problemáticas relacionadas con la generación y gestión inadecuada de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo (United Nations Department of Economic and Social Affairs, s. f.).
+
+### Desperdicio de Alimentos en el Perú
+
+A partir de las problemáticas comprendidas dentro del ODS 12, el equipo ha seleccionado como tema de interés el **desperdicio de alimentos**, debido a su impacto ambiental, económico y social.
+
+En el Perú, más de **12 millones de toneladas de alimentos se pierden a lo largo de la cadena productiva**, cifra que representa casi la mitad del suministro total de alimentos del país. Esta problemática se presenta desde las etapas de producción hasta el consumidor final y evidencia la existencia de importantes ineficiencias en el aprovechamiento de los alimentos disponibles (FAO, 2024).
+
+Asimismo, la FAO señala que, específicamente en la etapa de venta al detalle, en el Perú se desperdician aproximadamente **3 076 millones de calorías**, cantidad que podría satisfacer las necesidades nutricionales de cerca de **2 millones de personas**.
+
+### Caso del Gran Mercado Mayorista de Lima
+
+La problemática también puede observarse en espacios concretos de comercialización de alimentos. Por ejemplo, en el **Gran Mercado Mayorista de Lima** se descartan diariamente entre **40 y 60 toneladas de alimentos**, dependiendo de la temporada.
+
+Esta situación evidencia que una cantidad considerable de productos alimenticios termina siendo desechada durante su comercialización, a pesar de que parte de estos alimentos todavía podría ser aprovechada (Vite, 2021).
+
+### Consecuencias de la Problemática
+
+El desperdicio de alimentos representa un desaprovechamiento de los recursos empleados en su **producción, transporte y comercialización**. Además, genera impactos ambientales y sociales relacionados con la utilización innecesaria de recursos y la generación de residuos.
+
+En este contexto, el desperdicio de alimentos constituye un desafío relevante para el cumplimiento del **ODS 12**, particularmente en relación con la reducción de las pérdidas y desperdicios de alimentos y la promoción de patrones de consumo responsables.
+
+Si bien se han registrado avances en materia normativa, empresarial y en determinadas iniciativas de valorización, todavía persisten dificultades relacionadas con la prevención, reducción, reutilización y adecuada gestión de los residuos y alimentos descartados.
+
+### Enfoque del Equipo durante el Curso
+
+Durante el desarrollo del curso, el equipo analizará **cómo y por qué se produce el desperdicio de alimentos en contextos específicos**, identificando las principales causas, los actores involucrados, los usuarios afectados y las necesidades relacionadas con esta problemática.
+
+Nuestro enfoque estará orientado a comprender las condiciones que favorecen el desperdicio de alimentos y explorar oportunidades de diseño que permitan posteriormente plantear una solución innovadora, viable y relacionada con el **ODS 12: Producción y Consumo Responsables**.
+
+---
+
+## 📌 Resumen Final
+
+Este README presenta al **Equipo 12**, el **ODS 12: Producción y Consumo Responsables** como eje principal de nuestro trabajo y la problemática del **desperdicio de alimentos** como tema de interés.
+
+A lo largo del curso, analizaremos las causas, consecuencias, usuarios afectados y oportunidades relacionadas con esta problemática, con el objetivo de aplicar la metodología de diseño para desarrollar una propuesta que contribuya a promover patrones de consumo más responsables y sostenibles.
 
 Bibliografia:
 
