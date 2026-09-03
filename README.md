@@ -63,6 +63,18 @@ En este contexto, las bajas temperaturas y las heladas representan un desafío r
 
 ---
 
+## Idea de solución
+
+Como solución a la problemática identificada, el equipo propone diseñar un **invernadero inteligente**, equipado con sensores y un ESP32, que permita proteger los cultivos frente a las bajas temperaturas y heladas en zonas altoandinas. 
+
+El funcionamiento del sistema comenzará con los sensores, que se encargarán de medir constantemente la temperatura, la humedad ambiental y la humedad del suelo dentro del invernadero. Estos datos serán enviados al ESP32, que actuará como el cerebro del sistema y analizará las condiciones en las que se encuentran los cultivos.
+
+Cuando el sistema detecte una condición desfavorable, como una **temperatura demasiado baja**, el ESP32 podrá activar automáticamente un mecanismo de protección para ayudar a mantener una temperatura adecuada dentro del invernadero. De la misma manera, si se detecta que el suelo tiene poca humedad, el sistema podrá activar el **riego automático**.
+
+De esta manera, el invernadero no solo funcionará como una estructura de protección, sino que también permitirá **monitorear y responder automáticamente a las condiciones del ambiente**, reduciendo la necesidad de intervención manual y ayudando a mantener condiciones adecuadas para el crecimiento de los cultivos.
+
+---
+
 ## 📌 Resumen Final
 
 Este README presenta al **Equipo 12**, el **ODS 2: Hambre Cero** como eje principal de nuestro trabajo y la problemática de las **bajas temperaturas y heladas que afectan a los cultivos en las zonas altoandinas del Perú** como tema de interés.
