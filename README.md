@@ -1,37 +1,72 @@
-# Equipo 12 - FUNDAMENTOS DE DISEÑO
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 12 - Fundamentos de Diseño
+### Carrera de Ingeniería Ambiental / Informática / Industrial
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
-## 🌍 Descripción del Equipo 
-Somos el **Equipo 12** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+## 🌍 Descripción del Equipo
 
-Como equipo, hemos seleccionado como ODS principal **EL ODS 12: PRODUCCIÓN Y CONSUMO RESPONSABLES**, ya que se relaciona directamente con la forma en que producimos, consumimos y gestionamos los recursos. Nuestro objetivo es fomentar prácticas de producción y consumo más sostenibles, promoviendo un uso eficiente de los recursos naturales y reduciendo los impactos negativos que estas actividades generan en el ambiente y la sociedad. En este marco, se abordan problemáticas como la inadecuada gestión de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo. Estas problemáticas resultan relevantes debido a que no solo generan consecuencias ambientales, sino que también pueden afectar la calidad de vida de las personas y la sostenibilidad de las ciudades.
+Somos el **Equipo 12** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
 
+Como equipo, hemos seleccionado como ODS principal el **ODS 12: Producción y Consumo Responsables**, debido a su relación directa con la forma en que producimos, consumimos y gestionamos los recursos.
 
-Metas en las que nos enfocaremos
+Nuestro objetivo es fomentar prácticas de producción y consumo más sostenibles, promoviendo un uso eficiente de los recursos naturales y reduciendo los impactos negativos que estas actividades generan en el ambiente y la sociedad.
+En este marco, se abordan problemáticas como la inadecuada gestión de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo.
+Estas problemáticas resultan relevantes debido a que no solo generan consecuencias ambientales, sino que también pueden afectar la calidad de vida de las personas y la sostenibilidad de las ciudades.
 
-De manera preliminar, el equipo se enfocará principalmente en las metas del ODS 12 relacionadas con:
+### Metas en las que nos enfocaremos
 
--Reducir el desperdicio de alimentos en nuestra comunidad, especialmente en los hogares.
--Promover una gestión adecuada de productos químicos y residuos para reducir sus impactos negativos sobre la salud y el medio ambiente.
--Reducir la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
--Garantizar que las personas tengan información y conocimientos necesarios para adoptar estilos de vida sostenibles.
+De manera preliminar, el equipo se enfocará principalmente en las metas del **ODS 12** relacionadas con:
 
+- **Meta 12.3:** Reducir el desperdicio de alimentos en nuestra comunidad, especialmente en los hogares.
+- **Meta 12.4:** Promover una gestión adecuada de productos químicos y residuos para reducir sus impactos negativos sobre la salud y el medio ambiente.
+- **Meta 12.5:** Reducir la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
+- **Meta 12.8:** Garantizar que las personas tengan la información y los conocimientos necesarios para adoptar estilos de vida sostenibles.
 
-ODS complementarios
+### ODS Complementarias
 
-Además del ODS 12, consideramos relevante relacionar nuestra problemática con otros objetivos de desarrollo sostenible:
+Además del **ODS 12**, consideramos relevante relacionar nuestra problemática con otros Objetivos de Desarrollo Sostenible:
 
-ODS 3 – Salud y bienestar: puede relacionarse con los efectos que una inadecuada gestión de residuos, la contaminación y determinados hábitos de consumo pueden generar sobre la salud y el bienestar de las personas.
+- **ODS 3 - Salud y Bienestar:** puede relacionarse con los efectos que una inadecuada gestión de residuos, la contaminación y determinados hábitos de consumo pueden generar sobre la salud y el bienestar de las personas.
 
-ODS 11 – Ciudades y comunidades sostenibles: se relaciona con la necesidad de construir ciudades más sostenibles, especialmente en aspectos como la gestión de residuos, la contaminación, el uso eficiente de los recursos y la adopción de hábitos responsables por parte de la población.
+- **ODS 11 - Ciudades y Comunidades Sostenibles:** se relaciona con la necesidad de construir ciudades más sostenibles, especialmente en aspectos como la gestión de residuos, la contaminación, el uso eficiente de los recursos y la adopción de hábitos responsables por parte de la población.
 
 Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los patrones de producción y consumo puede contribuir tanto a la protección del ambiente como al bienestar de las personas y a la sostenibilidad de las ciudades.
 
 ---
 
+## 2. Descripción General del ODS 12
+
+El **Objetivo de Desarrollo Sostenible 12: Producción y Consumo Responsables** busca garantizar modalidades de consumo y producción sostenibles. Este objetivo aborda la necesidad de utilizar los recursos naturales de manera eficiente, reducir la generación de residuos y promover prácticas responsables a lo largo de los procesos de producción y consumo.
+
+Dentro de este objetivo se consideran diferentes problemáticas ambientales y sociales, entre ellas la generación y gestión inadecuada de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo.
+
+Por esta razón, promover patrones de producción y consumo responsables resulta fundamental para disminuir el impacto ambiental de las actividades humanas y favorecer un desarrollo sostenible.
+
+---
+
+## 3. Metas Específicas Abordadas
+
+### Meta Principal - Meta 12.3
+
+Reducir a la mitad el desperdicio de alimentos per cápita en los niveles de venta al por menor y de los consumidores, así como reducir las pérdidas de alimentos a lo largo de las cadenas de producción y suministro.
+
+Esta meta representa el principal enfoque de nuestro proyecto debido a su relación directa con la problemática del **desperdicio de alimentos**, tanto en los espacios de comercialización como en los hogares y otros puntos de consumo.
+
+### Meta Secundaria - Meta 12.5
+
+Reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
+
+Esta meta se relaciona con nuestro proyecto debido a que los alimentos desperdiciados terminan convirtiéndose en residuos, generando impactos ambientales y representando un desaprovechamiento de los recursos utilizados durante su producción, transporte y comercialización.
+
+### Meta de Apoyo - Meta 12.8
+
+De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza.
+
+Esta meta complementa nuestro enfoque debido a que la información y los hábitos de consumo pueden influir en las decisiones relacionadas con la compra, conservación y aprovechamiento de los alimentos.
+
+---
+   
 ## 📸 Fotografía del Equipo  
 
 ---  <img width="1600" height="1200" alt="WhatsApp Image 2026-08-20 at 12 39 26 PM" src="https://github.com/user-attachments/assets/7dd2dc37-73cd-448a-a1fa-2bfd0c125bf1" />
