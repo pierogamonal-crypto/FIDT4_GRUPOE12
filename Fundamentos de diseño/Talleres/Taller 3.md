@@ -6,7 +6,7 @@ Este es el texto anterior.
 
 | N° | Nombre | Tema | Aporte | Variables | Referencia |
 |---|---|---|---|---|---|
-| 1 | | | | | |
+| 1 | TRANSFORMANDO EL DESPERDICIO ALIMENTARIO EN PERÚ: PROPUESTAS PARA EL RESCATE Y REDISTRIBUCIÓN DE ALIMENTOS PARA MEJORAR LA SEGURIDAD ALIMENTARIA| | | | |
 | 2 | | | | | |
 | 3 | | | | | |
 
