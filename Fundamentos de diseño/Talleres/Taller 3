@@ -1,46 +1,28 @@
-BUSQUEDA DE INFORMACIÓNN
+# BÚSQUEDA DE INFORMACIÓN
 
-Articulos ciéntifos
-Tabla 1
+### Artículos científicos
+#### Tabla 1
 Este es el texto anterior.
 
-BUSQUEDA DE INFORMACIÓN
+| N° | Nombre | Tema | Aporte | Variables | Referencia |
+|---|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
 
-Articulos científicos
-Tabla 1
-Este es el texto anterior.
+### Patentes
+#### Tabla 2
 
-|  N°  | Nombre | Tema | Aporte | Variables | Referencia |
-|------|--------|------|--------|-----------|------------|
-|   1  |        |      |        |           |            |
-|   2  |        |      |        |           |            |
-|   3  |        |      |        |           |            |
+| N° | Nombre | Tema | Aporte | Variables | Referencia |
+|---|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
 
+### Tesis
+#### Tabla 3
 
-Patentes
-Tabla 2
-
-|  N°  | Nombre | Tema | Aporte | Variables | Referencia |
-|------|--------|------|--------|-----------|------------|
-|   1  |        |      |        |           |            |
-|   2  |        |      |        |           |            |
-|   3  |        |      |        |           |            |
-
-
-Tesis
-Tabla 3
-
-|  N°  | Nombre | Tema | Aporte | Variables | Referencia |
-|------|--------|------|--------|-----------|------------|
-|   1  |        |      |        |           |            |
-|   2  |        |      |        |           |            |
-|   3  |        |      |        |           |            |
-
-
-Productos comeriales
-Tabla 4
-|  N°  | Nombre | Tema | Aporte | Variables | Referencia |
-|------|--------|------|--------|-----------|------------|
-|   1   |       |      |        |           |            |
-|   2   |       |      |        |           |            |
-|   3   |       |      |        |           |            |
+| N° | Nombre | Tema | Aporte | Variables | Referencia |
+|---|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
