@@ -1,71 +1,94 @@
-# Equipo 12 - Fundamentos de Diseño
-### Carrera de Ingeniería Ambiental / Informática / Industrial
-**Universidad Peruana Cayetano Heredia**
+# 🌱 Equipo 12 — Fundamentos de Diseño
+
+## Invernadero Inteligente: sistema IoT para protección de cultivos frente a bajas temperaturas
+
+**Curso:** Fundamentos de Diseño 2026-II  
+**Equipo:** 12  
+**Áreas:** Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial  
+**Institución:** Universidad Peruana Cayetano Heredia
 
 ---
 
-## 🌍 Descripción del Equipo
+## 1. Descripción del equipo
 
-Somos el **Equipo 12** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
+Somos el **Equipo 12** del curso **Fundamentos de Diseño**. Nuestro proyecto se orienta al desarrollo de una solución tecnológica de pequeña escala para apoyar la protección de cultivos frente a condiciones ambientales desfavorables.
 
-Como equipo, hemos seleccionado como ODS principal el **ODS 12: Producción y Consumo Responsables**, debido a su relación directa con la forma en que producimos, consumimos y gestionamos los recursos.
+Nuestra propuesta parte de una problemática agrícola presente en zonas altoandinas del Perú: las bajas temperaturas y las heladas pueden afectar las condiciones necesarias para el desarrollo de los cultivos. Frente a ello, planteamos un **invernadero inteligente a escala**, capaz de monitorear variables ambientales y del suelo y activar automáticamente mecanismos de protección y riego.
 
-Nuestro objetivo es fomentar prácticas de producción y consumo más sostenibles, promoviendo un uso eficiente de los recursos naturales y reduciendo los impactos negativos que estas actividades generan en el ambiente y la sociedad.
-En este marco, se abordan problemáticas como la inadecuada gestión de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo.
-Estas problemáticas resultan relevantes debido a que no solo generan consecuencias ambientales, sino que también pueden afectar la calidad de vida de las personas y la sostenibilidad de las ciudades.
-
-### Metas en las que nos enfocaremos
-
-De manera preliminar, el equipo se enfocará principalmente en las metas del **ODS 12** relacionadas con:
-
-- **Meta 12.3:** Reducir el desperdicio de alimentos en nuestra comunidad, especialmente en los hogares.
-- **Meta 12.4:** Promover una gestión adecuada de productos químicos y residuos para reducir sus impactos negativos sobre la salud y el medio ambiente.
-- **Meta 12.5:** Reducir la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
-- **Meta 12.8:** Garantizar que las personas tengan la información y los conocimientos necesarios para adoptar estilos de vida sostenibles.
-
-### ODS Complementarias
-
-Además del **ODS 12**, consideramos relevante relacionar nuestra problemática con otros Objetivos de Desarrollo Sostenible:
-
-- **ODS 3 - Salud y Bienestar:** puede relacionarse con los efectos que una inadecuada gestión de residuos, la contaminación y determinados hábitos de consumo pueden generar sobre la salud y el bienestar de las personas.
-
-- **ODS 11 - Ciudades y Comunidades Sostenibles:** se relaciona con la necesidad de construir ciudades más sostenibles, especialmente en aspectos como la gestión de residuos, la contaminación, el uso eficiente de los recursos y la adopción de hábitos responsables por parte de la población.
-
-Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los patrones de producción y consumo puede contribuir tanto a la protección del ambiente como al bienestar de las personas y a la sostenibilidad de las ciudades.
+El proyecto integra diseño físico, electrónica, automatización, IoT y visualización de datos en una sola solución.
 
 ---
 
-## 2. Descripción General del ODS 12
+## 2. Problemática
 
-El **Objetivo de Desarrollo Sostenible 12: Producción y Consumo Responsables** busca garantizar modalidades de consumo y producción sostenibles. Este objetivo aborda la necesidad de utilizar los recursos naturales de manera eficiente, reducir la generación de residuos y promover prácticas responsables a lo largo de los procesos de producción y consumo.
+### 2.1 Delimitación de la problemática
 
-Dentro de este objetivo se consideran diferentes problemáticas ambientales y sociales, entre ellas la generación y gestión inadecuada de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo.
+En determinadas zonas altoandinas del Perú, los cultivos pueden estar expuestos a **bajas temperaturas y heladas**, condiciones que pueden alterar el ambiente necesario para su desarrollo.
 
-Por esta razón, promover patrones de producción y consumo responsables resulta fundamental para disminuir el impacto ambiental de las actividades humanas y favorecer un desarrollo sostenible.
+Una dificultad adicional es que el control de las condiciones del cultivo puede depender de la supervisión manual. Cuando una condición ambiental cambia rápidamente, una respuesta tardía puede disminuir la capacidad de proteger el cultivo o utilizar adecuadamente los recursos disponibles.
+
+A partir de esta problemática, nuestro equipo plantea la siguiente pregunta de diseño:
+
+> **¿Cómo podemos diseñar un sistema de invernadero de bajo costo que detecte condiciones ambientales de riesgo y active oportunamente mecanismos de protección y riego para mantener condiciones adecuadas para un cultivo a pequeña escala?**
+
+### 2.2 Problemas específicos abordados
+
+- Descenso de temperatura dentro del espacio de cultivo.
+- Humedad insuficiente del suelo.
+- Necesidad de supervisar variables ambientales de manera continua.
+- Necesidad de automatizar determinadas acciones del invernadero.
+- Uso eficiente del agua disponible para riego.
+
+---
+
+## 3. ODS relacionados
+
+### ODS 2 — Hambre Cero
+
+El proyecto puede contribuir indirectamente a este objetivo al apoyar la producción y protección de cultivos mediante mejores condiciones de manejo a pequeña escala.
+
+### ODS 6 — Agua Limpia y Saneamiento
+
+El sistema contempla el monitoreo de la disponibilidad de agua y la automatización del riego, buscando utilizar el recurso de manera más controlada.
+
+### ODS 9 — Industria, Innovación e Infraestructura
+
+El proyecto incorpora sensores, microcontroladores, automatización, diseño mecánico y conectividad IoT en una infraestructura agrícola de pequeña escala.
+
+### ODS 11 — Ciudades y Comunidades Sostenibles
+
+El enfoque puede vincularse con soluciones de producción de alimentos a pequeña escala cuando el invernadero se adapte a contextos urbanos o periurbanos.
+
+### ODS 13 — Acción por el Clima
+
+El proyecto aborda una condición climática que afecta la producción agrícola y plantea una estrategia tecnológica de adaptación mediante protección del cultivo y monitoreo ambiental.
 
 ---
 
-## 3. Metas Específicas Abordadas
+## 4. Propuesta de solución
 
-### Meta Principal - Meta 12.3
+### 🌱 Invernadero Inteligente
 
-Reducir a la mitad el desperdicio de alimentos per cápita en los niveles de venta al por menor y de los consumidores, así como reducir las pérdidas de alimentos a lo largo de las cadenas de producción y suministro.
+La propuesta consiste en construir un **invernadero tipo capilla a escala**, equipado con sensores conectados a un **ESP32**.
 
-Esta meta representa el principal enfoque de nuestro proyecto debido a su relación directa con la problemática del **desperdicio de alimentos**, tanto en los espacios de comercialización como en los hogares y otros puntos de consumo.
+El sistema monitoreará:
 
-### Meta Secundaria - Meta 12.5
+- Temperatura del aire.
+- Humedad ambiental.
+- Temperatura próxima al cultivo.
+- Humedad del suelo.
+- Luminosidad.
+- Nivel de agua del tanque.
 
-Reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclaje y reutilización.
+De acuerdo con las condiciones detectadas, el sistema podrá activar automáticamente:
 
-Esta meta se relaciona con nuestro proyecto debido a que los alimentos desperdiciados terminan convirtiéndose en residuos, generando impactos ambientales y representando un desaprovechamiento de los recursos utilizados durante su producción, transporte y comercialización.
+- Un sistema de calefacción cuando la temperatura llegue a un nivel de riesgo definido para el prototipo.
+- Una bomba de agua y una electroválvula cuando el suelo presente humedad insuficiente.
 
-### Meta de Apoyo - Meta 12.8
-
-De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza.
-
-Esta meta complementa nuestro enfoque debido a que la información y los hábitos de consumo pueden influir en las decisiones relacionadas con la compra, conservación y aprovechamiento de los alimentos.
+Los datos y estados del sistema podrán visualizarse mediante un **dashboard web o aplicación**.
 
 ---
+
    
 ## 📸 Fotografía del Equipo  
 
