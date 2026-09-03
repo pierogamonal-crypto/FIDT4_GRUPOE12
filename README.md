@@ -1,95 +1,33 @@
-# 🌱 Equipo 12 — Fundamentos de Diseño
-
-## Invernadero Inteligente: sistema IoT para protección de cultivos frente a bajas temperaturas
-
-**Curso:** Fundamentos de Diseño 2026-II  
-**Equipo:** 12  
-**Áreas:** Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial  
-**Institución:** Universidad Peruana Cayetano Heredia
+# Equipo 12 - FUNDAMENTOS DE DISEÑO
+### Carrera de Ingeniería Ambiental / Informática / Industrial  
+**Universidad Peruana Cayetano Heredia**
 
 ---
 
-## 1. Descripción del equipo
+## 🌍 Descripción del Equipo 
+Somos el **Equipo 12** del curso **Nombre del curso 2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 
-Somos el **Equipo 12** del curso **Fundamentos de Diseño**. Nuestro proyecto se orienta al desarrollo de una solución tecnológica de pequeña escala para apoyar la protección de cultivos frente a condiciones ambientales desfavorables.
+Como equipo, hemos seleccionado como ODS principal el **ODS 2: HAMBRE CERO**, ya que se relaciona directamente con la seguridad alimentaria, la producción agrícola sostenible y la capacidad de los sistemas de producción para enfrentar condiciones climáticas adversas. Nuestro objetivo es contribuir al fortalecimiento de una agricultura más resiliente, promoviendo alternativas que permitan proteger los cultivos y mantener una producción adecuada de alimentos frente a fenómenos meteorológicos extremos. En este marco, se abordan problemáticas como las pérdidas de cultivos ocasionadas por las bajas temperaturas y heladas, la vulnerabilidad de los pequeños productores y las dificultades para mantener condiciones adecuadas para el desarrollo de las plantas en las zonas altoandinas del Perú. Estas problemáticas resultan relevantes debido a que no solo afectan la producción agrícola y los ingresos de las familias productoras, sino que también pueden comprometer la disponibilidad de alimentos y la seguridad alimentaria de las poblaciones que dependen de esta actividad.
 
-Nuestra propuesta parte de una problemática agrícola presente en zonas altoandinas del Perú: las bajas temperaturas y las heladas pueden afectar las condiciones necesarias para el desarrollo de los cultivos. Frente a ello, planteamos un **invernadero inteligente a escala**, capaz de monitorear variables ambientales y del suelo y activar automáticamente mecanismos de protección y riego.
+### Metas en las que nos enfocaremos
 
-El proyecto integra diseño físico, electrónica, automatización, IoT y visualización de datos en una sola solución.
+El equipo se enfocará principalmente en las metas del ODS 2 relacionadas con:
 
----
+- Mejorar la productividad agrícola, especialmente de los pequeños productores.
+- Promover sistemas agrícolas sostenibles y resilientes frente al cambio climático y fenómenos meteorológicos extremos.
+- Reducir las pérdidas de cultivos ocasionadas por bajas temperaturas y heladas.
+- Fortalecer la seguridad alimentaria mediante alternativas que permitan mantener una producción agrícola adecuada.
 
-## 2. Problemática
+Además del ODS 2: Hambre Cero, consideramos relevante relacionar nuestra problemática con otros Objetivos de Desarrollo Sostenible:
 
-### 2.1 Delimitación de la problemática
+ODS 12 – Producción y Consumo Responsables: se relaciona con la necesidad de utilizar de manera eficiente los recursos empleados en la producción agrícola. El proyecto busca optimizar el uso de recursos mediante un sistema automatizado que permita controlar las condiciones del cultivo y evitar el uso innecesario de agua y otros insumos.
 
-En determinadas zonas altoandinas del Perú, los cultivos pueden estar expuestos a **bajas temperaturas y heladas**, condiciones que pueden alterar el ambiente necesario para su desarrollo.
+ODS 6 – Agua Limpia y Saneamiento: se relaciona con la importancia de realizar un uso eficiente y sostenible del agua en las actividades agrícolas. El sistema de monitoreo permitirá conocer las condiciones del suelo y utilizar el agua de manera más controlada, evitando riegos innecesarios y contribuyendo a un uso responsable de este recurso.
 
-Una dificultad adicional es que el control de las condiciones del cultivo puede depender de la supervisión manual. Cuando una condición ambiental cambia rápidamente, una respuesta tardía puede disminuir la capacidad de proteger el cultivo o utilizar adecuadamente los recursos disponibles.
-
-A partir de esta problemática, nuestro equipo plantea la siguiente pregunta de diseño:
-
-> **¿Cómo podemos diseñar un sistema de invernadero de bajo costo que detecte condiciones ambientales de riesgo y active oportunamente mecanismos de protección y riego para mantener condiciones adecuadas para un cultivo a pequeña escala?**
-
-### 2.2 Problemas específicos abordados
-
-- Descenso de temperatura dentro del espacio de cultivo.
-- Humedad insuficiente del suelo.
-- Necesidad de supervisar variables ambientales de manera continua.
-- Necesidad de automatizar determinadas acciones del invernadero.
-- Uso eficiente del agua disponible para riego.
+Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los patrones de producción y consumo puede contribuir tanto a la protección del ambiente como al bienestar de las personas y a la sostenibilidad de las ciudades.
 
 ---
 
-## 3. ODS relacionados
-
-### ODS 2 — Hambre Cero
-
-El proyecto puede contribuir indirectamente a este objetivo al apoyar la producción y protección de cultivos mediante mejores condiciones de manejo a pequeña escala.
-
-### ODS 6 — Agua Limpia y Saneamiento
-
-El sistema contempla el monitoreo de la disponibilidad de agua y la automatización del riego, buscando utilizar el recurso de manera más controlada.
-
-### ODS 9 — Industria, Innovación e Infraestructura
-
-El proyecto incorpora sensores, microcontroladores, automatización, diseño mecánico y conectividad IoT en una infraestructura agrícola de pequeña escala.
-
-### ODS 11 — Ciudades y Comunidades Sostenibles
-
-El enfoque puede vincularse con soluciones de producción de alimentos a pequeña escala cuando el invernadero se adapte a contextos urbanos o periurbanos.
-
-### ODS 13 — Acción por el Clima
-
-El proyecto aborda una condición climática que afecta la producción agrícola y plantea una estrategia tecnológica de adaptación mediante protección del cultivo y monitoreo ambiental.
-
----
-
-## 4. Propuesta de solución
-
-### 🌱 Invernadero Inteligente
-
-La propuesta consiste en construir un **invernadero tipo capilla a escala**, equipado con sensores conectados a un **ESP32**.
-
-El sistema monitoreará:
-
-- Temperatura del aire.
-- Humedad ambiental.
-- Temperatura próxima al cultivo.
-- Humedad del suelo.
-- Luminosidad.
-- Nivel de agua del tanque.
-
-De acuerdo con las condiciones detectadas, el sistema podrá activar automáticamente:
-
-- Un sistema de calefacción cuando la temperatura llegue a un nivel de riesgo definido para el prototipo.
-- Una bomba de agua y una electroválvula cuando el suelo presente humedad insuficiente.
-
-Los datos y estados del sistema podrán visualizarse mediante un **dashboard web o aplicación**.
-
----
-
-   
 ## 📸 Fotografía del Equipo  
 
 ---  <img width="1600" height="1200" alt="WhatsApp Image 2026-08-20 at 12 39 26 PM" src="https://github.com/user-attachments/assets/7dd2dc37-73cd-448a-a1fa-2bfd0c125bf1" />
@@ -107,63 +45,36 @@ Los datos y estados del sistema podrán visualizarse mediante un **dashboard web
 
 ---
 
-## 4. Delimitación de la Problemática
+## Problemática
 
-Como equipo, centraremos nuestro trabajo en el **desperdicio de alimentos en el Perú**, considerando especialmente las situaciones que se presentan durante la comercialización y el consumo de alimentos y que contribuyen a que productos potencialmente aprovechables terminen siendo desechados.
+Como equipo, centraremos nuestro trabajo en  de los cultivos frente a las bajas temperaturas y heladas en las zonas altoandinas del Perú, considerando especialmente las condiciones climáticas extremas que pueden presentarse durante la temporada de heladas y que afectan el desarrollo y la producción de los cultivos. Ante esta situación, se considera necesario implementar alternativas que permitan proteger los cultivos y mantener condiciones ambientales adecuadas para su desarrollo.
 
 ### Contexto del Problema
 
-Desde septiembre de 2015, el Perú se sumó a la aprobación del documento **“Transformar nuestro mundo: la Agenda 2030 para el Desarrollo Sostenible”** de la Organización de las Naciones Unidas (ONU), un plan global que estableció 17 Objetivos de Desarrollo Sostenible (ODS) orientados a erradicar la pobreza, proteger el planeta y garantizar la paz y la prosperidad.
+Desde septiembre de 2015 el Perú se sumó a la aprobación del documento “Transformar nuestro mundo: la Agenda 2030 para el Desarrollo Sostenible” de la Organización de las Naciones Unidas (ONU), un plan global que estableció 17 Objetivos de Desarrollo Sostenible (ODS) orientados a enfrentar problemas sociales, económicos y ambientales a nivel mundial. Dentro de estos objetivos se encuentra el ODS 2: HAMBRE CERO, que busca poner fin al hambre, garantizar la seguridad alimentaria y promover una agricultura sostenible y resiliente frente a los efectos del cambio climático y los fenómenos meteorológicos extremos.
 
-A casi 11 años de su aprobación, el desempeño del Perú continúa presentando importantes desafíos. El informe 2025 del **Sustainable Development Solutions Network (SDSN)** (Sachs et al., 2025), adscrito a la ONU, ubica al Perú en el puesto 65 de 167 países, con un índice de 72,7 sobre 100.
-
-Estos resultados evidencian que, si bien existen avances en determinados ámbitos, aún persisten brechas que requieren mayor atención para alcanzar los objetivos establecidos para 2030.
-
-Dentro de este contexto, nuestro equipo se enfoca en el **ODS 12: Producción y Consumo Responsables**, que comprende diversas problemáticas relacionadas con la generación y gestión inadecuada de residuos, el bajo nivel de reciclaje, el desperdicio de alimentos, el consumo excesivo de productos y la contaminación asociada a los actuales patrones de producción y consumo (United Nations Department of Economic and Social Affairs, s. f.).
-
-### Desperdicio de Alimentos en el Perú
-
-A partir de las problemáticas comprendidas dentro del ODS 12, el equipo ha seleccionado como tema de interés el **desperdicio de alimentos**, debido a su impacto ambiental, económico y social.
-
-En el Perú, más de **12 millones de toneladas de alimentos se pierden a lo largo de la cadena productiva**, cifra que representa casi la mitad del suministro total de alimentos del país. Esta problemática se presenta desde las etapas de producción hasta el consumidor final y evidencia la existencia de importantes ineficiencias en el aprovechamiento de los alimentos disponibles (FAO, 2024).
-
-Asimismo, la FAO señala que, específicamente en la etapa de venta al detalle, en el Perú se desperdician aproximadamente **3 076 millones de calorías**, cantidad que podría satisfacer las necesidades nutricionales de cerca de **2 millones de personas**.
-
-### Caso del Gran Mercado Mayorista de Lima
-
-La problemática también puede observarse en espacios concretos de comercialización de alimentos. Por ejemplo, en el **Gran Mercado Mayorista de Lima** se descartan diariamente entre **40 y 60 toneladas de alimentos**, dependiendo de la temporada.
-
-Esta situación evidencia que una cantidad considerable de productos alimenticios termina siendo desechada durante su comercialización, a pesar de que parte de estos alimentos todavía podría ser aprovechada (Vite, 2021).
+Dentro de esta problemática, el equipo busca fortalecer la producción agrícola frente a las condiciones climáticas adversas que afectan a las zonas altoandinas del Perú. En estas regiones, las bajas temperaturas y las heladas constituyen una amenaza recurrente para la agricultura familiar, especialmente en localidades ubicadas por encima de los 3 000 m s. n. m., donde las temperaturas pueden descender hasta los 0 °C o menos. Según el Anuario Estadístico del Sector Ambiente 2024 del Ministerio del Ambiente (MINAM), durante ese año se registraron temperaturas mínimas de hasta −21,5 °C en Chuapalca, Tacna; −19,4 °C en Mazo Cruz, Puno; y −17,5 °C en Cojata, Puno, evidenciando la magnitud que pueden alcanzar estos fenómenos en la región andina. Asimismo, el Ministerio de Desarrollo Agrario y Riego (MIDAGRI) reconoce que las heladas representan un riesgo recurrente para la agricultura familiar durante la temporada de bajas temperaturas, por lo que para 2026 se contemplaron medidas de protección para aproximadamente 43 mil familias campesinas de 16 regiones, entre ellas la implementación de fitotoldos destinados a proteger cultivos como hortalizas, hierbas aromáticas y medicinales y frutales.
 
 ### Consecuencias de la Problemática
 
-El desperdicio de alimentos representa un desaprovechamiento de los recursos empleados en su **producción, transporte y comercialización**. Además, genera impactos ambientales y sociales relacionados con la utilización innecesaria de recursos y la generación de residuos.
-
-En este contexto, el desperdicio de alimentos constituye un desafío relevante para el cumplimiento del **ODS 12**, particularmente en relación con la reducción de las pérdidas y desperdicios de alimentos y la promoción de patrones de consumo responsables.
-
-Si bien se han registrado avances en materia normativa, empresarial y en determinadas iniciativas de valorización, todavía persisten dificultades relacionadas con la prevención, reducción, reutilización y adecuada gestión de los residuos y alimentos descartados.
-
-### Enfoque del Equipo durante el Curso
-
-Durante el desarrollo del curso, el equipo analizará **cómo y por qué se produce el desperdicio de alimentos en contextos específicos**, identificando las principales causas, los actores involucrados, los usuarios afectados y las necesidades relacionadas con esta problemática.
-
-Nuestro enfoque estará orientado a comprender las condiciones que favorecen el desperdicio de alimentos y explorar oportunidades de diseño que permitan posteriormente plantear una solución innovadora, viable y relacionada con el **ODS 12: Producción y Consumo Responsables**.
+En este contexto, las bajas temperaturas y las heladas representan un desafío relevante para el cumplimiento del ODS 2: Hambre Cero, debido a que pueden afectar la continuidad de la producción agrícola y, en consecuencia, la disponibilidad de alimentos y los medios de vida de las familias productoras. La situación resulta especialmente relevante para los pequeños agricultores de las zonas altoandinas, quienes requieren alternativas que les permitan reducir la vulnerabilidad de sus cultivos frente a fenómenos climáticos extremos. Por ello, resulta necesario desarrollar soluciones que permitan monitorear las condiciones ambientales y del suelo y actuar oportunamente ante situaciones desfavorables para los cultivos.
 
 ---
 
 ## 📌 Resumen Final
 
-Este README presenta al **Equipo 12**, el **ODS 12: Producción y Consumo Responsables** como eje principal de nuestro trabajo y la problemática del **desperdicio de alimentos** como tema de interés.
+Este README presenta al **Equipo 12**, el **ODS 2: Hambre Cero** como eje principal de nuestro trabajo y la problemática de las **bajas temperaturas y heladas que afectan a los cultivos en las zonas altoandinas del Perú** como tema de interés.
 
-A lo largo del curso, analizaremos las causas, consecuencias, usuarios afectados y oportunidades relacionadas con esta problemática, con el objetivo de aplicar la metodología de diseño para desarrollar una propuesta que contribuya a promover patrones de consumo más responsables y sostenibles.
+A lo largo del curso, analizaremos las causas, consecuencias, usuarios afectados y oportunidades relacionadas con esta problemática, con el objetivo de aplicar la metodología de diseño para desarrollar una propuesta de **invernadero inteligente** que contribuya a proteger los cultivos frente a condiciones climáticas adversas. Asimismo, el proyecto se relacionará con el **ODS 12: Producción y Consumo Responsables** y el **ODS 6: Agua Limpia y Saneamiento**, promoviendo un uso eficiente y responsable de los recursos empleados en la producción agrícola.
+
 
 Bibliografia:
 
-1. United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development. https://sdgs.un.org/2030agenda.
-2. Sachs, J. D., Lafortune, G., Fuller, G., & Iablonovski, G. (2025). SUSTAINABLE DEVELOPMENT REPORT 2025 Financing Sustainable Development to 2030 and Mid-Century. Dublin University Press. https://doi.org/10.25546/111909.
-3. Ministerio del Ambiente. (2025, 19 de septiembre). Perú: valorización de residuos en 2024 superó las 249 000 toneladas. Gob.pe. https://www.gob.pe/institucion/minam/noticias/1248744-peru-valorizacion-de-residuos-en-2024-supero-las-249-000-toneladas.
-4. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2024, 10 de noviembre). Más de 12 millones de toneladas de alimentos se pierden a lo largo de la cadena productiva en el Perú. FAO Perú. https://www.fao.org/peru/noticias/detail/M%C3%81S-DE-12-MILLONES-DE-TONELADAS-DE-ALIMENTOS-SE-PIERDEN-A-LO-LARGO-DE-LA-CADENA-PRODUCTIVA-EN-EL-PER%C3%9A-/es?utm_source=chatgpt.com
-5. Vite, A. (2021, 12 de diciembre). Todo sobre la pérdida de alimentos. Diario Oficial El Peruano. https://elperuano.pe/noticia/135214-todo-sobre-la-perdida-de-alimentos?utm_source=chatgpt.com
+Referencias utilizadas:
+1. Ministerio del Ambiente (MINAM). (2025). Anuario Estadístico del Sector Ambiente 2024. Sistema Nacional de Información Ambiental (SINIA).
+3. Ministerio de Desarrollo Agrario y Riego (MIDAGRI). (2025). Gobierno implementó plan contra heladas y friaje en 15 regiones, beneficiando a más de 54 mil productores. https://www.gob.pe/institucion/midagri/noticias/1409586-gobierno-invierte-s-13-8-millones-en-fitotoldos-para-proteger-cultivos-de-heladas-en-14-regiones?utm_source=chatgpt.com 
+5. Ministerio de Desarrollo Agrario y Riego (MIDAGRI). (2026). Gobierno ejecutó Plan Multisectorial ante Heladas y Friaje 2025–2027 en beneficio de más de 56 mil familias en 15 departamentos del país.
+6. Programa de Desarrollo Productivo Agrario Rural – AGRO RURAL. (2026). MIDAGRI recomienda acciones para contribuir a la reducción de impactos frente a las bajas temperaturas.
    
 
 
