@@ -24,10 +24,9 @@ Este es el texto anterior.
 
 | N° | Nombre | Tema | Aporte | Variables | Referencia |
 |---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-
+| 1 | Quispe Motta, Daniel Jesús; Vera Calero, Daniel Alejandro | Producción agrícola mediante invernaderos | Aporta información sobre el uso de invernaderos como alternativa para la producción de frutas y vegetales bajo condiciones controladas. También aborda aspectos de sostenibilidad y buenas prácticas agrícolas. | Producción agrícola, cultivos de invernadero, condiciones de producción, sostenibilidad | Quispe Motta DJ, Vera Calero DA. *Plan de negocios para venta de productos agrícolas obtenidos en un invernadero en Lima Metropolitana* [tesis de grado]. Lima: Universidad Científica del Sur; 2021. doi:10.21142/tb.2021.1767. |
+| 2 | Pizarro Guillen, Luis Eduardo | Cambio climático y recurso hídrico en la sierra peruana | Aporta información sobre los efectos del cambio climático en la sierra peruana, especialmente sobre la temperatura ambiental y la humedad del suelo. También analiza alternativas de mitigación mediante la gestión del recurso hídrico. | Cambio climático, temperatura ambiental, humedad del suelo, recurso hídrico, agua, ecosistemas | Pizarro Guillen LE. *Mitigación del impacto del cambio climático en el recurso hídrico de la sierra peruana con el uso de qochas* [tesis de grado]. Lima: Universidad Científica del Sur; 2022. doi:10.21142/tb.2022.2172. |
+| 3 | Galindo Edquen, Ashly Evelin | Cultivos en condiciones controladas de invernadero | Aporta un antecedente sobre el uso de invernaderos para estudiar el comportamiento de plantas y suelo bajo condiciones controladas. Permite sustentar la utilización de ambientes protegidos para el desarrollo de investigaciones agrícolas. | Fitoextracción, cadmio en suelo, especies vegetales, suelo contaminado, condiciones de invernadero | Galindo Edquen AE. *Fitoextracción de cadmio de un suelo contaminado utilizando la adelfa (Nerium oleander) y la olivarda (Dittrichia viscosa) en condiciones de invernadero* [tesis de grado]. Lima: Universidad Científica del Sur; 2022. doi:10.21142/tb.2022.2634. |
 
 ### Productos Comerciales
 #### Tabla 4
