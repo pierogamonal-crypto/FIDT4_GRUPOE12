@@ -2,7 +2,6 @@
 
 ## Artículos científicos
 ### Tabla 1
-Este es el texto anterior.
 
 | N° | Nombre | Tema | Aporte | Variables/Caracteristicas | Valores/Rango | Referencia |
 |---|---|---|---|---|---|---|
