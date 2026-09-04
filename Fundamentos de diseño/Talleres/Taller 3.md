@@ -27,3 +27,13 @@ Este es el texto anterior.
 | 1 | | | | | |
 | 2 | | | | | |
 | 3 | | | | | |
+
+
+### Productos Comerciales
+#### Tabla 3
+
+| N° | Nombre | Tema | Aporte | Variables | Referencia |
+|---|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
