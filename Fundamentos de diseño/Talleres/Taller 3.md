@@ -19,7 +19,27 @@ Este es el texto anterior.
 | 2 |Intelligent temperature control greenhouse (Invernadero inteligente con control de temperatura) CN202603277U |Sistema de invernadero inteligente orientado al control automático de temperatura y aprovechamiento energético. Utiliza panel solar, batería, iluminación, sistema de calefacción, sensores y una unidad de control. |Es uno de los antecedentes más relacionados con nuestro proyecto porque demuestra la integración de sensores + unidad de control + calefacción automática + monitoreo ambiental. Nuestro prototipo simplifica este sistema para hacerlo viable a escala de laboratorio. |Temperatura ambiental, temperatura del agua del sistema, luminosidad y presión. El sistema controla calefacción, iluminación y circulación de agua. |杨金涛, 徐岩哲, 刘晓波, 王慧. Intelligent temperature control greenhouse [Internet]. CN202603277U, 2012 [citado 3 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/CN202603277U/en |<img src="https://github.com/user-attachments/assets/c583a4b1-3e77-482b-b726-88a2cc3781ad" width="350">|
 | 3 |A greenhouse automatic sprinkler irrigation control device (Dispositivo de control automático de riego por aspersión para invernadero) CN210519617U |Sistema de riego automático para invernadero que detecta la humedad del suelo y activa una bomba y un sistema de aspersión cuando la humedad es inferior al rango establecido. También contempla el aprovechamiento de agua de lluvia. |Aporta directamente la lógica de nuestro sistema de riego inteligente: medir la humedad del suelo y regar únicamente cuando sea necesario. Esto respalda nuestro enfoque de uso más eficiente del agua. |Humedad del suelo. A partir de esta medición, el controlador activa o detiene la bomba y el sistema de riego. |邢辉, 王伟, 邢潇朋. A greenhouse automatic sprinkler irrigation control device [Internet]. CN210519617U, 2020 [citado 3 de septiembre de 2026]. Disponible en: https://patents.google.com/patent/CN210519617U/en |<img src="https://github.com/user-attachments/assets/63482a24-bac8-437d-9f11-6c0c8f7ba9c0" width="350">|
 
-### Tesis
+## TESIS
+
+### 1. Plan de negocios para venta de productos agrícolas obtenidos en un invernadero en Lima Metropolitana
+
+La investigación analiza la implementación de un modelo de negocio basado en la producción y comercialización de productos agrícolas obtenidos mediante invernaderos en Lima Metropolitana. La propuesta considera el uso de ambientes protegidos como una alternativa para desarrollar cultivos bajo condiciones controladas, permitiendo mejorar las condiciones de producción agrícola. Esta investigación se relaciona con el proyecto debido a que respalda el uso de **invernaderos como estrategia para proteger y favorecer el desarrollo de cultivos**, constituyendo un antecedente para el diseño de un invernadero inteligente [(1)](https://www.zotero.org/google-docs/?O7L2kd).
+
+### 2. Mitigación del impacto del cambio climático en el recurso hídrico de la sierra peruana con el uso de qochas
+
+La investigación estudia los efectos del cambio climático sobre el recurso hídrico en la sierra peruana y plantea el uso de qochas como una alternativa para mitigar estos impactos. El estudio aborda aspectos relacionados con la disponibilidad y gestión del agua en zonas de la sierra, considerando los efectos de las variaciones climáticas sobre los recursos naturales. Esta propuesta se relaciona con el proyecto debido a que permite contextualizar las **condiciones ambientales y climáticas que afectan a las actividades agrícolas de las zonas altoandinas**, especialmente en relación con la disponibilidad de agua para los cultivos [(2)](https://www.zotero.org/google-docs/?DRbukV).
+
+### 3. Fitoextracción de cadmio de un suelo contaminado utilizando la adelfa (*Nerium oleander*) y la olivarda (*Dittrichia viscosa*) en condiciones de invernadero
+
+La investigación estudia la capacidad de las especies vegetales *Nerium oleander* y *Dittrichia viscosa* para realizar la fitoextracción de cadmio presente en suelos contaminados bajo condiciones de invernadero. El estudio utiliza un ambiente controlado para evaluar la interacción entre las plantas y las condiciones del suelo, demostrando la utilidad de los invernaderos para desarrollar investigaciones y procesos agrícolas controlados. Esta investigación se relaciona con el proyecto debido a que constituye un antecedente sobre el **uso de ambientes protegidos para controlar las condiciones de desarrollo de los cultivos y del suelo** [(3)](https://www.zotero.org/google-docs/?3rSdbi).
+
+## Referencias Bibliográficas
+
+1. Quispe Motta DJ, Vera Calero DA. *Plan de negocios para venta de productos agrícolas obtenidos en un invernadero en Lima Metropolitana*. Repos Inst – UCS. 2021. doi:10.21142/tb.2021.1767.
+
+2. Pizarro Guillen LE. *Mitigación del impacto del cambio climático en el recurso hídrico de la sierra peruana con el uso de qochas*. Repos Inst – UCS. 2022. doi:10.21142/tb.2022.2172.
+
+3. Galindo Edquen AE. *Fitoextracción de cadmio de un suelo contaminado utilizando la adelfa (Nerium oleander) y la olivarda (Dittrichia viscosa) en condiciones de invernadero*. Repos Inst – UCS. 2022. doi:10.21142/tb.2022.2634.
 #### Tabla 3
 
 | N° | Nombre | Tema | Aporte | Variables | Referencia |
