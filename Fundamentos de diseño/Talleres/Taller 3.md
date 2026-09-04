@@ -33,7 +33,7 @@ Este es el texto anterior.
 #### Tabla 4
 
 | N° | Nombre | Tema | Aporte | Variables | Referencia | Imagen |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 1 |Priva Connext |Automatización y control climático de invernaderos. |Priva Connext es un sistema de control de procesos orientado a integrar diferentes sistemas de automatización de un invernadero. Puede gestionar procesos relacionados con clima, agua y otros sistemas de la instalación. También dispone de herramientas digitales para supervisar y gestionar el sistema desde dispositivos como tabletas y smartphones. **Relación con nuestro proyecto:** demuestra que la integración entre sensores, control climático, riego y software es una solución utilizada comercialmente. **Diferencia de nuestro prototipo:** nuestro proyecto se limita intencionalmente a una escala académica y a un conjunto reducido de variables y actuadores, con énfasis específico en la protección frente a bajas temperaturas y el riego de un cultivo pequeño. |Control climático. Gestión de agua y riego. Integración de diferentes procesos. Visualización y gestión digital. Automatización de invernaderos. |https://www.priva.com/es/horticultura/soluciones/climatizadores/priva-connext |<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/728eeed0-a7e3-4028-9dd7-1a867dd52c6c" />|
 | 2 | | | | | |
 | 3 | | | | | |
