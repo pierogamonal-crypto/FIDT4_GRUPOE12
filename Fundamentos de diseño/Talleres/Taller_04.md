@@ -33,10 +33,8 @@ Además, incorpora mecanismos automatizados para el riego, apertura y cierre de 
 A01G9/24 -- Dispositivos de calefacción, aireación, climatización, o riego, en invernaderos, vidrieras o en instalaciones similares [2006.01]
 ### PATENTE 4
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### TITULO: 
-MAQUINA DE GESTIÓN DE AUTOMATIZACIÓN AGRÍCOLA PARA INSTALACIONES
-#### NÚMERO Y FECHA DE PUBLICACIÓN: 
-CN203399548U -- 2014-01-22
+#### TITULO: MAQUINA DE GESTIÓN DE AUTOMATIZACIÓN AGRÍCOLA PARA INSTALACIONES
+#### NÚMERO Y FECHA DE PUBLICACIÓN: CN203399548U -- 2014-01-22
 #### BREVE RESUMEN:
 La presente invención consiste en una máquina de gestión para la automatización agrícola que integra una computadora externa, sensores multifuncionales, un microcontrolador y un controlador automático. El sistema permite monitorear y controlar diferentes parámetros del invernadero, activando dispositivos como un sistema de riego por goteo, un generador de fertilizantes, lámparas de iluminación, un sistema de climatización y una alarma. Su objetivo es mejorar el control de las condiciones del cultivo, reducir el trabajo del agricultor y optimizar el uso de agua y energía. Además, el sistema de climatización permite prevenir daños por congelamiento debido a bajas temperaturas y problemas ocasionados por una humedad elevada.
 #### CAMPO DE APLICACIÓN:
