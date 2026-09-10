@@ -22,7 +22,7 @@ A01G9/24 -- Dispositivos de calefacción, aireación, climatización, o riego, e
 ### PATENTE 3
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### TITULO: EL APARATO Y EL MÉTODO DE CONTROL REMOTO DE VINYL HOUSE CON CALENTADOR ELÉCTRICO GTG Y TRABAJOS DE REMOCIÓN DE NIEVE
-#### NÚMERO Y FECHA DE PUBLICACION: KR101402930B1 -- 014-06-02
+#### NÚMERO Y FECHA DE PUBLICACION: KR101402930B1 -- 2014-06-02
 #### BREVE RESUMEN:
 La patente presenta un sistema de gestión remota para invernaderos de plástico, diseñado principalmente para protegerlos durante condiciones climáticas de frío y nevadas. El sistema hace uso de diferentes sensores para medir la temperatura exterior e interior, la humedad ambiental, la humedad del suelo y la cantidad de nieve acumulada. La información obtenida es enviada a una unidad de control que permite supervisar y controlar el funcionamiento del invernadero de manera remota.
 
