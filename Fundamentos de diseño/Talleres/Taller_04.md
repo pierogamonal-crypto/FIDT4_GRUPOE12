@@ -17,7 +17,12 @@ La presente invención se refiere a un sistema de invernadero para el control me
 Campo de Aplicación:
 A01G9/24 -- Dispositivos de calefacción, aireación, climatización, o riego, en invernaderos, vidrieras o en instalaciones similares 
 ### PATENTE 3
+#### TITULO: EL APARATO Y EL MÉTODO DE CONTROL REMOTO DE VINYL HOUSE CON CALENTADOR ELÉCTRICO GTG Y TRABAJOS DE REMOCIÓN DE NIEVE
+#### NÚMERO Y FECHA DE PUBLICACION: KR101402930B1       014-06-02
+#### BREVE RESUMEN:
+La patente presenta un sistema de gestión remota para invernaderos de plástico, diseñado principalmente para protegerlos durante condiciones climáticas de frío y nevadas. El sistema hace uso de diferentes sensores para medir la temperatura exterior e interior, la humedad ambiental, la humedad del suelo y la cantidad de nieve acumulada. La información obtenida es enviada a una unidad de control que permite supervisar y controlar el funcionamiento del invernadero de manera remota.
 
+Además, incorpora mecanismos automatizados para el riego, apertura y cierre de los laterales y calentamiento del invernadero. Cuando se detecta una cantidad determinada de nieve, el sistema activa mecanismos de calentamiento y pulverización para facilitar su eliminación. La comunicación entre los sensores, el controlador y los dispositivos se realiza mediante tecnologías como CAN, Zigbee y Wi-Fi, permitiendo también el monitoreo mediante un servidor y un teléfono inteligente.
 ### PATENTE 4
 Título: Máquina de gestión de automatización agrícola para instalaciones
 Número y Fecha de Publicación: CN203399548U -- 22 de enero de 2014
