@@ -10,11 +10,11 @@ BREVE RESUMEN: La patente propone un sistema inteligente para gestionar varios i
 CAMPO DE APLICACIÓN:
 A01G9/24 -- Dispositivos de calefacción, aireación, climatización, o riego, en invernaderos, vidrieras o en instalaciones similares [2006.01]
 ### PATENTE 2
-Título: Sistema de invernadero para control mediante smartphone basado en Tecnologías de la Información y la Comunicación
-Número y Fecha de Publicación: KR101509461B1 -- 8 de abril de 2015
-Breve Resumen:
+### TITULO: Sistema de invernadero para control mediante smartphone basado en Tecnologías de la Información y la Comunicación
+### NÚMERO Y FECHA DE PUBLICACIÓN: KR101509461B1 -- 8 de abril de 2015
+### BREVE RESUMEN:
 La presente invención se refiere a un sistema de invernadero para el control mediante un teléfono inteligente basado en TIC. Se crea una red de comunicación móvil seleccionando una de las redes de comunicación móvil disponibles, ya sea síncrona o asíncrona. El dispositivo de control basado en teléfono inteligente cuenta con una estructura que incluye un sensor de presión de viento, un sensor de distancia, un sensor de temperatura y humedad, un sensor de medición de gases, una unidad de accionamiento del techo, un sensor de presión, un motor de accionamiento de ascenso y descenso y un motor de accionamiento de la cortina. El dispositivo de control basado en teléfono inteligente incluye una unidad de transmisión y recepción inalámbrica, una unidad de almacenamiento para el almacenamiento de datos y un módulo de control para la estructura del invernadero. De esta manera, el sistema de invernadero maximiza la comodidad del administrador.
-Campo de Aplicación:
+### CAMPO DE APLICACIÓN:
 A01G9/24 -- Dispositivos de calefacción, aireación, climatización, o riego, en invernaderos, vidrieras o en instalaciones similares 
 ### PATENTE 3
 #### TITULO: EL APARATO Y EL MÉTODO DE CONTROL REMOTO DE VINYL HOUSE CON CALENTADOR ELÉCTRICO GTG Y TRABAJOS DE REMOCIÓN DE NIEVE
