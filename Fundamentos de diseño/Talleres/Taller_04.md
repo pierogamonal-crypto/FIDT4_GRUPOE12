@@ -1,13 +1,14 @@
 # BÚSQUEDA DE PATENTES
 
 ## PROYECTO: 
+
+
+### PATENTE 1
 TÍTULO: SISTEMA DE GESTION MULTI-SERRES
 NÚMERO Y FECHA DE PUBLICACIÓN:F R3036578A1 · 2016-12-02
 BREVE RESUMEN: La patente propone un sistema inteligente para gestionar varios invernaderos mediante una plataforma central conectada a sensores y dispositivos de control. Los sensores recopilan variables como temperatura, humedad ambiental, iluminación, temperatura y humedad del suelo, entre otras. Estos datos son enviados a una plataforma donde se almacenan y analizan para conocer el estado de los cultivos, generar notificaciones y permitir la automatización de determinadas acciones dentro del invernadero.
-CAMPO DE APLICACIÓN: Agricultura de precisión y horticultura protegida, específicamente en la gestión y automatización de invernaderos mediante sistemas IoT. Se aplica al monitoreo y control de variables ambientales y del suelo, como temperatura, humedad, iluminación y riego, con el objetivo de optimizar las condiciones de crecimiento de los cultivos.
-
-### PATENTE 1
-
+CAMPO DE APLICACIÓN:
+A01G9/24 -- Dispositivos de calefacción, aireación, climatización, o riego, en invernaderos, vidrieras o en instalaciones similares [2006.01]
 ### PATENTE 2
 Título: Sistema de invernadero para control mediante smartphone basado en Tecnologías de la Información y la Comunicación
 Número y Fecha de Publicación: KR101509461B1 -- 8 de abril de 2015
