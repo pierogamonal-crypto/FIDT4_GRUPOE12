@@ -32,7 +32,8 @@ Estos objetivos se encuentran relacionados entre sí, ya que una mejora en los p
 
 ---  ## 📸 Fotografía del Equipo
 
---- <img width="1600" height="1200" alt="WhatsApp Image 2026-08-20 at 12 39 26 PM" src="https://github.com/user-attachments/assets/7dd2dc37-73cd-448a-a1fa-2bfd0c125bf1" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3902948e-cee0-4c4b-ab5a-455b907d51c0" />
+
 
 ## 👥 Integrantes del Equipo  
 
